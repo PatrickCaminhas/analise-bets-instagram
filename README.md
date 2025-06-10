@@ -31,9 +31,10 @@ Nossa análise revelou insights importantes sobre a atuação dessas empresas na
 Este projeto foi desenvolvido para ser executado no ambiente do Google Colab, que já possui a maioria das bibliotecas necessárias pré-instaladas. Para rodar a análise, siga os passos:
 
 1. Faça upload do notebook .ipynb no Google Colab.
-2. Faça o upload do dataset "Bets_Instagram.csv" no Google Drive.
-3. No Google Colab ajuste o caminho do dataset na celula com titulo "2. Importação dos arquivos".
-4. Execute as celulas sequencialmente.
+2. Faça o download do dataset no link: https://drive.google.com/file/d/1-IspaLQXJuGR7jIHZ9uAbi1_Hae3AqWU/view
+3. Faça o upload do dataset "Bets_Instagram.csv" no Google Drive.
+4. No Google Colab ajuste o caminho do dataset na celula com titulo "2. Importação dos arquivos".
+5. Execute as celulas sequencialmente.
 
 ## Autores 
 
